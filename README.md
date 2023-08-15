@@ -19,6 +19,7 @@ Pandas
 SQLAlchemy
 PostgreSQL
 Jupiter notebook
+
 To run the code, you will need to have the following installed:
 
 * Python 3
