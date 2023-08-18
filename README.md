@@ -34,7 +34,8 @@ Once you have installed the dependencies, you can run the code by following thes
 
 ### Remarks and Feedback
 In the next phase of the project, we are looking at increasing the dataset from 100 jobs post to 500 jobs, and 
-Dynamic Scheduling and pipeline orchestration, ensuring Error Resilience, which will aid seamless data extraction process,
+Dynamic Scheduling and pipeline orchestration, ensuring Error Resilience, which will aid seamless data extraction process.
+
 Fully Configurable: The pipeline allows for easy customization, enabling users to adapt it to different job search queries, locations, and API parameters.
 
 ### Anungar's Note: 
